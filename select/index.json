@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Chk Chk Boom",
+  "base_artist": "Stray Kids",
+  "createdAt": "2025-12-07T07:29:25.066251Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Chk Chk Boom",
+      "artist": "Stray Kids",
+      "has_synced": true,
+      "path": "select/01_Chk_Chk_Boom_Stray_Kids.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Chk Chk Boom (Festival ver.)",
+      "artist": "Stray Kids",
+      "has_synced": true,
+      "path": "select/02_Chk_Chk_Boom_(Festival_ver.)_Stray_Kids.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Chk Chk Boom",
+      "artist": "Stray Kids",
+      "has_synced": true,
+      "path": "select/03_Chk_Chk_Boom_Stray_Kids.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Chk Chk Boom (Festival Ver.)",
+      "artist": "Stray Kids",
+      "has_synced": false,
+      "path": "select/04_Chk_Chk_Boom_(Festival_Ver.)_Stray_Kids.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Chk Chk Boom",
+      "artist": "Stray Kids",
+      "has_synced": true,
+      "path": "select/05_Chk_Chk_Boom_Stray_Kids.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Chk Chk Boom (Festival Ver.)",
+      "artist": "Stray Kids",
+      "has_synced": true,
+      "path": "select/06_Chk_Chk_Boom_(Festival_Ver.)_Stray_Kids.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Chk Chk Boom",
+      "artist": "Stray Kids",
+      "has_synced": true,
+      "path": "select/07_Chk_Chk_Boom_Stray_Kids.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Chk Chk Boom (Heatwave Ver.)",
+      "artist": "Stray Kids",
+      "has_synced": false,
+      "path": "select/08_Chk_Chk_Boom_(Heatwave_Ver.)_Stray_Kids.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Chk Chk Boom (Deadeye Ver.)",
+      "artist": "Stray Kids",
+      "has_synced": false,
+      "path": "select/09_Chk_Chk_Boom_(Deadeye_Ver.)_Stray_Kids.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Chk Chk Boom (Festival Ver.)",
+      "artist": "Stray Kids",
+      "has_synced": true,
+      "path": "select/10_Chk_Chk_Boom_(Festival_Ver.)_Stray_Kids.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Chk Chk Boom",
+      "artist": "Stray Kids",
+      "has_synced": true,
+      "path": "select/11_Chk_Chk_Boom_Stray_Kids.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Chk Chk Boom (Instrumental)",
+      "artist": "Stray Kids",
+      "has_synced": false,
+      "path": "select/12_Chk_Chk_Boom_(Instrumental)_Stray_Kids.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Chk Chk Boom",
+      "artist": "Stray Kids",
+      "has_synced": true,
+      "path": "select/13_Chk_Chk_Boom_Stray_Kids.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Chk Chk Boom",
+      "artist": "Stray Kids (스트레이 키즈)",
+      "has_synced": true,
+      "path": "select/14_Chk_Chk_Boom_Stray_Kids_(스트레이_키즈).lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Chk Chk Boom",
+      "artist": "Stray Kids",
+      "has_synced": true,
+      "path": "select/15_Chk_Chk_Boom_Stray_Kids.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Chk Chk Boom",
+      "artist": "Stray Kids",
+      "has_synced": true,
+      "path": "select/16_Chk_Chk_Boom_Stray_Kids.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Chk Chk Boom -Japanese ver.-",
+      "artist": "Stray Kids",
+      "has_synced": true,
+      "path": "select/17_Chk_Chk_Boom_-Japanese_ver.-_Stray_Kids.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Chk Chk Boom",
+      "artist": "Stray Kids",
+      "has_synced": false,
+      "path": "select/pl_01_Chk_Chk_Boom_Stray_Kids.txt"
+    }
+  ]
+}
